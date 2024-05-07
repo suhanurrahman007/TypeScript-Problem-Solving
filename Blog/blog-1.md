@@ -3,7 +3,7 @@
 ### Overview:
 <p>In TypeScript, union and crossing point sorts are effective highlights that upgrade the expressiveness and adaptability of the sort framework. Let's break down their centrality: </p>
 
-<summary><b>Union Types: </b><p>Union sorts permit you to pronounce that a variable can hold values of diverse sorts. This can be especially valuable when a work or variable can acknowledge more than one sort of input. For Example: </p></summary>
+<summary><b>1. Union Types: </b><p>Union sorts permit you to pronounce that a variable can hold values of diverse sorts. This can be especially valuable when a work or variable can acknowledge more than one sort of input. For Example: </p></summary>
 
 
 ```bash
@@ -17,7 +17,7 @@ displayData(true);
 ```
 <p>Union sorts are profitable for dealing with scenarios where a esteem can change in sort, such as when managing with client input or APIs that return distinctive sorts of information beneath distinctive circumstances.</p>
 
-<summary><b>Intersection Types: </b> <p>Intersection Types permit you to combine multiple types into a single sort. This can be valuable after you need an object to have the characteristics of numerous sorts at the same time. For Example: </p></summary>
+<summary><b>2. Intersection Types: </b> <p>Intersection Types permit you to combine multiple types into a single sort. This can be valuable after you need an object to have the characteristics of numerous sorts at the same time. For Example: </p></summary>
 
 
 ```bash
