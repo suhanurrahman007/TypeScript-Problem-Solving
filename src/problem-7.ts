@@ -1,5 +1,6 @@
 {
     const logString = (params: unknown): void =>{
+        
         if (typeof params === "string") {
             console.log(params);
         } else {
