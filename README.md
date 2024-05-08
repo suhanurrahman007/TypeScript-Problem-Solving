@@ -443,10 +443,12 @@ new Car("Toyota", "Corolla", 2020);
 ## Blog Writing (anyone):
 
 ### Write an impactful blog posts covering the following topics:
+
 <details><summary><b>1. The significance of union and intersection types in Typescript.</b></summary>
 
 <summary>
-## The significance of union and intersection types in Typescript.
+
+### The significance of union and intersection types in Typescript.
 
 ### Overview:
 <p>In TypeScript, union and crossing point sorts are effective highlights that upgrade the expressiveness and adaptability of the sort framework. Let's break down their centrality: </p>
@@ -505,7 +507,8 @@ logger.log();
 <details><summary><b>2. How to handle asynchronous operations using `async/await` over `callback/promise` TypeScript.</b></summary>
 
 <summary>
-## How to handle asynchronous operations using async/await over callback/promise TypeScript.
+
+### How to handle asynchronous operations using async/await over callback/promise TypeScript.
 
 ### Overview:
 <p>Taking care of offbeat operations in TypeScript can be done utilizing either callbacks, guarantees, or async/await sentence structure. async/await could be a more cutting edge and helpful way to bargain with nonconcurrent code, especially when working with Guarantees.</p>
@@ -569,7 +572,8 @@ readAndProcessFile('example.txt');
 <details><summary><b>3. Why are Type Guards Necessary? Discuss Various Types of Type Guards and Their Use Cases.</b></summary>
 
 <summary>
-## Why are Type Guards Necessary? Discuss Various Types of Type Guards and Their Use Cases.
+
+### Why are Type Guards Necessary? Discuss Various Types of Type Guards and Their Use Cases.
 
 ### Overview:
 <p>Type watches are essential in TypeScript to supply more exact type data inside certain code squares. They offer assistance the TypeScript compiler get it the types of factors more precisely, permitting for more secure and more expressive code. </p>
