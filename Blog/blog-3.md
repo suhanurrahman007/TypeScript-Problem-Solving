@@ -6,6 +6,7 @@
 ### There are different types of type watches in TypeScript, each serving distinctive purposes:
 
 <details><summary><b>1. Typeof Type Guards:</b></summary>
+
 <summary><b>Use Case: </b><span>Checking the type of a primitive value, such as string, number, boolean, symbol, or undefined.</span></summary>
 
 
@@ -18,6 +19,7 @@ function isNumber(value: unknown): value is number {
 
 
 <details><summary><b>2. instanceof Type Guards: </b></summary>
+
 <summary><b>Use Case: </b><span>Checking whether an object is an instance of a particular class or constructor function.</span></summary>
 
 
@@ -41,6 +43,7 @@ function isCar(vehicle: any): vehicle is Car {
 </details>
 
 <details><summary><b>3. in Type Guards:</b></summary>
+
 <summary><b>Use Case: </b><span>Checking if a property exists on an object.</span></summary>
 
 
@@ -76,6 +79,7 @@ function isCatOrDog(animal: any): animal is Cat | Dog {
 </details>
 
 <details><summary><b>5. Type Predicates:</b></summary>
+
 <summary><b>Use Case: </b><span>A special syntax in TypeScript for defining and using custom type guards.</span></summary>
 
 
